@@ -1,5 +1,5 @@
 # Student-registration
-Türkçe: Öğretmenlerin öğrencilerin verilerini saklamasını sağlayan bir program.
+# Türkçe: Öğretmenlerin öğrencilerin verilerini saklamasını sağlayan bir program.
 # Özellikleri
 Bir seferde onlarca/yüzlerce aynı kayıdı yapabilirsiniz.
 Numarasına göre öğrencinin bilgilerini yazdırabilirsiniz.
